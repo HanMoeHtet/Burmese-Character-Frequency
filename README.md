@@ -1,3 +1,9 @@
+# Burmese Character Frequency Analysis
+
+- I have collected a handful of articles on Myanmar Wikipedia and run a program to sort out the frequency of Burmese characters.
+- I found that the consonants "က" and "င" have the most frequency of usage with 4.14% and 4.11% respectively, while "ဈ" and "ဎ" are the least with 0.01% and 0.00% respectively.
+- It is also seen that " ်" and "း are the most used non-consonants with 12.36% and 6.01% of usage respectively.
+
 ```
 ်: 32169        12.36%
 း: 15642        6.01%
